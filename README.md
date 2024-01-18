@@ -6,8 +6,8 @@
 - 🌎  looking to work at abroad<br /><br />
 
 #### If you want to reach me
-<a href="mailto:yunsoojoh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/my_gmail-FF5CAA?style=social&logo=gmail&logoColor=DD344C"/></a>
-<a href="www.linkedin.com/in/yunsoojoh" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=#0A66C2"/></a>
+<a href="mailto:yunsoojoh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/my_gmail-FF5CAA?style=social&logo=gmail&logoColor=DD344C"/></a><br />
+<a href="https://www.linkedin.com/in/yunsoojoh" target="_blank"><img src="https://img.shields.io/badge/my_linkedin-0A66C2?style=social&logo=linkedin&logoColor=#0A66C2"/></a>
 <br /><br />
 
 #### I'm used to <br />
